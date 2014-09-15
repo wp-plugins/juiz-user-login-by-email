@@ -6,11 +6,11 @@ Requires at least: 3.8
 Tested up to: 4.0
 Stable tag: 1.0.0
 
-Allow user logs-in with its e-mail OR its username
+Allows user logs-in with its email OR its username
 
 == Description ==
 
-Add the possibility for user to log-in with its e-mail OR its username.
+Adds the possibility for user to log-in with its email OR its username.
 Uses native WordPress functions.
 Lightweight plugin, no options, just activate it and it works!
 
