@@ -1,4 +1,4 @@
-﻿=== User Login by email ===
+﻿=== Juiz User Log-in by email ===
 Contributors: CreativeJuiz
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P39NJPCWVXGDY&lc=FR&item_name=Juiz%20Login%20by%20Email%20%2d%20WP%20Plugin&item_number=%23wp%2djulbe&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: login, email, user, wp-login
