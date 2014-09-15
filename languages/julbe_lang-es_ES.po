@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juiz Login User By Email\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-13 14:23+0100\n"
+"PO-Revision-Date: 2014-09-13 14:30+0100\n"
+"Last-Translator: Geoffrey <rikuasakura@hotmail.fr>\n"
+"Language-Team: Creativejuiz <support@creativejuiz.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../juiz-user-login-by-email.php:77
+msgid "or Email"
+msgstr "o email"
+
+#~ msgid "Visit this link find on %%siteurl%%"
+#~ msgstr "Visit this link find on %%siteurl%%"
+
+#~ msgid ""
+#~ "Hi, I found this information for you : \"%%title%%\"! This is the direct "
+#~ "link: %%permalink%% Have a nice day :)"
+#~ msgstr ""
+#~ "Hi, I found this information for you : \"%%title%%\"! This is the direct "
+#~ "link: %%permalink%% Have a nice day :)"
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid "Social Post Sharer"
+#~ msgstr "Social Post Sharer"
+
+#~ msgid "Sharing buttons"
+#~ msgstr "Sharing buttons"
+
+#~ msgid "Hide sharing buttons for this post."
+#~ msgstr "Hide sharing buttons for this post."
+
+#~ msgid "Main settings"
+#~ msgstr "Main settings"
+
+#~ msgid "Choose a style to display"
+#~ msgstr "Choose a style to display"
+
+#~ msgid "Display those following social networks:"
+#~ msgstr "Display those following social networks:"
+
+#~ msgid "What is your Twitter user name to be mentioned?"
+#~ msgstr "What is your Twitter user name to be mentioned?"
+
+#~ msgid "Save Changes"
+#~ msgstr "Save Changes"
+
+#~ msgid "Display settings"
+#~ msgstr "Display settings"
+
+#~ msgid "What type of content must have buttons?"
+#~ msgstr "What type of content must have buttons?"
+
+#~ msgid "Where do you want to display buttons?"
+#~ msgstr "Where do you want to display buttons?"
+
+#~ msgid "Advanced settings"
+#~ msgstr "Advanced settings"
+
+#~ msgid "Show only social icon?"
+#~ msgstr "Show only social icon?"
+
+#~ msgid "hide text, show it on mouse over or focus"
+#~ msgstr "hide text, show it on mouse over or focus"
+
+#~ msgid "Open links in a new window?"
+#~ msgstr "Open links in a new window?"
+
+#~ msgid "adds a %s attribute"
+#~ msgstr "adds a %s attribute"
+
+#~ msgid "Force Pinterest button sniffing all images of the page?"
+#~ msgstr "Force Pinterest button sniffing all images of the page?"
+
+#~ msgid "need JavaScript"
+#~ msgstr "need JavaScript"
+
+#~ msgid "Display counter of sharing?"
+#~ msgstr "Display counter of sharing?"
+
+#, fuzzy
+#~ msgid "For this counter, you want to display:"
+#~ msgstr "Where do you want to display buttons?"
+
+#~ msgid "Write CSS code in HTML head?"
+#~ msgstr "Write CSS code in HTML head?"
+
+#~ msgid "good thing for performance on mobile"
+#~ msgstr "good thing for performance on mobile"
+
+#~ msgid "Customize mail texts"
+#~ msgstr "Customize mail texts"
+
+#~ msgid "Mail subject:"
+#~ msgstr "Mail subject:"
+
+#~ msgid "Mail body:"
+#~ msgstr "Mail body:"
+
+#~ msgid "Here, you can modify default settings of the SPS plugin"
+#~ msgstr "Here, you can modify default settings of the SPS plugin"
+
+#~ msgid "Juizy Light Tone"
+#~ msgstr "Juizy Light Tone"
+
+#~ msgid "Juizy Light Tone Reverse"
+#~ msgstr "Juizy Light Tone Reverse"
+
+#~ msgid "Blue Metro Style"
+#~ msgstr "Blue Metro Style"
+
+#~ msgid "Gray Metro Style"
+#~ msgstr "Gray Metro Style"
+
+#~ msgid "Modern Style"
+#~ msgstr "Modern Style"
+
+#~ msgid "by"
+#~ msgstr "by"
+
+#~ msgid "Black"
+#~ msgstr "Black"
+
+#~ msgid "uses JavaScript to work"
+#~ msgstr "uses JavaScript to work"
+
+#~ msgid "New social network!"
+#~ msgstr "New social network!"
+
+#~ msgid "Username without \"@\""
+#~ msgstr "Username without \"@\""
+
+#~ msgid ""
+#~ "You can choose precisely the types of content that will benefit from the "
+#~ "sharing buttons."
+#~ msgstr ""
+#~ "You can choose precisely the types of content that will benefit from the "
+#~ "sharing buttons."
+
+#~ msgid "Lists of articles %s(blog, archives, search results, etc.)%s"
+#~ msgstr "Lists of articles %s(blog, archives, search results, etc.)%s"
+
+#~ msgid "Content bottom"
+#~ msgstr "Content bottom"
+
+#~ msgid "Content top"
+#~ msgstr "Content top"
+
+#~ msgid "Both"
+#~ msgstr "Both"
+
+#~ msgid "I'm a ninja, I want to use the shortcode only!"
+#~ msgstr "I'm a ninja, I want to use the shortcode only!"
+
+#~ msgid ""
+#~ "Modify advanced settings of the plugin. Some of them needs JavaScript "
+#~ "(only one file loaded)"
+#~ msgstr ""
+#~ "Modify advanced settings of the plugin. Some of them needs JavaScript "
+#~ "(only one file loaded)"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Total &amp; Sub-totals"
+#~ msgstr "Total &amp; Sub-totals"
+
+#~ msgid "Only Total"
+#~ msgstr "Only Total"
+
+#~ msgid "Only Sub-totals"
+#~ msgstr "Only Sub-totals"
+
+#~ msgid "This option will be enabled for a next version"
+#~ msgstr "This option will be enabled for a next version"
+
+#~ msgid ""
+#~ "You can customize texts to display when visitors share your content by "
+#~ "mail button"
+#~ msgstr ""
+#~ "You can customize texts to display when visitors share your content by "
+#~ "mail button"
+
+#~ msgid ""
+#~ "To perform customization, you can use %s%%%%title%%%%%s, %s%%%%siteurl%%%%"
+#~ "%s or %s%%%%permalink%%%%%s variables."
+#~ msgstr ""
+#~ "To perform customization, you can use %s%%%%title%%%%%s, %s%%%%siteurl%%%%"
+#~ "%s or %s%%%%permalink%%%%%s variables."
+
+#~ msgid "Manage Juiz Social Post Sharer"
+#~ msgstr "Manage Juiz Social Post Sharer"
+
+#~ msgid "You must chose at least one %stype of content%s."
+#~ msgstr "You must chose at least one %stype of content%s."
+
+#~ msgid ""
+#~ "Is you don't want to use this plugin more longer, go to Plugins section "
+#~ "and deactivate it."
+#~ msgstr ""
+#~ "Is you don't want to use this plugin more longer, go to Plugins section "
+#~ "and deactivate it."
+
+#~ msgid ""
+#~ "You can use %s[juiz_sps]%s or %s[juiz_social]%s shortcode with an "
+#~ "optional attribute \"buttons\" listing the social networks you want."
+#~ msgstr ""
+#~ "You can use %s[juiz_sps]%s or %s[juiz_social]%s shortcode with an "
+#~ "optional attribute \"buttons\" listing the social networks you want."
+
+#~ msgid "Example with all the networks available:"
+#~ msgstr "Example with all the networks available:"
+
+#~ msgid "Like it? Support this plugin! Thank you."
+#~ msgstr "Like it? Support this plugin! Thank you."
+
+#~ msgid "Donate"
+#~ msgstr "Donate"
+
+#~ msgid "Tweet it"
+#~ msgstr "Tweet it"
+
+#~ msgid "Rate it"
+#~ msgstr "Rate it"
+
+#~ msgid "Documentation"
+#~ msgstr "Documentation"
+
+#~ msgid "Share the post"
+#~ msgstr "Share the post"
+
+#~ msgid "Share this article on Twitter"
+#~ msgstr "Share this article on Twitter"
+
+#~ msgid "Share this article on Facebook"
+#~ msgstr "Share this article on Facebook"
+
+#~ msgid "Share this article on Google+"
+#~ msgstr "Share this article on Google+"
+
+#~ msgid "Share an image of this article on Pinterest"
+#~ msgstr "Share an image of this article on Pinterest"
+
+#~ msgid "Share this article on Viadeo"
+#~ msgstr "Share this article on Viadeo"
+
+#~ msgid "Share this article on LinkedIn"
+#~ msgstr "Share this article on LinkedIn"
+
+#~ msgid "Share this article on Digg"
+#~ msgstr "Share this article on Digg"
+
+#~ msgid "Share this article on StumbleUpon"
+#~ msgstr "Share this article on StumbleUpon"
+
+#~ msgid "Share this article on Weibo"
+#~ msgstr "Share this article on Weibo"
+
+#~ msgid "Share this article on VKontakte"
+#~ msgstr "Share this article on VKontakte"
+
+#~ msgid "Share this article with a friend (email)"
+#~ msgstr "Share this article with a friend (email)"
+
+#~ msgid "Total: "
+#~ msgstr "Total: "
+
+#~ msgid "Visit this link"
+#~ msgstr "Visit this link"
+
+#~ msgid "Hi, I found this information for you! Have a nice day :)"
+#~ msgstr "Hi, I found this information for you! Have a nice day :)"
+
+#~ msgid "adds a <code>target=\"_blank\"</code> attribute"
+#~ msgstr "adds a <code>target=\"_blank\"</code> attribute"
+
+#~ msgid "Howdy, %1$s"
+#~ msgstr "Howdy, %1$s"
+
+#~ msgid "Credits"
+#~ msgstr "Credits"
+
+#~ msgid ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+#~ msgstr ""
+#~ "Mobile Admin support by <a href=\"http://wordpress.org/extend/plugins/"
+#~ "juiz-smart-mobile-admin\">Juiz SMA</a>"
+
+#~ msgid "Top of page"
+#~ msgstr "Top of page"
+
+#~ msgid "Admin Mobile Appearance"
+#~ msgstr "Admin Mobile Appearance"
+
+#~ msgid "Show plugins shortcuts in adminbar?"
+#~ msgstr "Show plugins shortcuts in adminbar?"
+
+#~ msgid "Show custom WP admin footer ?"
+#~ msgstr "Show custom WP admin footer ?"
+
+#~ msgid "Settings saved"
+#~ msgstr "Settings saved"
+
+#~ msgid "Manage Juiz Smart Mobile Admin"
+#~ msgstr "Manage Juiz Smart Mobile Admin"
+
+#~ msgid "The redirection failed"
+#~ msgstr "The redirection failed"
+
+#~ msgid "refresh the page"
+#~ msgstr "refresh the page"
+
+#~ msgid "Sorry, nothing to update..."
+#~ msgstr "Sorry, nothing to update..."
+
+#~ msgid "Unknown error..."
+#~ msgstr "Unknown error..."
