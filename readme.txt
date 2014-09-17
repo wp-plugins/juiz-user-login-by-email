@@ -34,7 +34,7 @@ Français
 ––
 
 Ajoute la possibilité pour un utilisateur de se connecter avec son adresse e-mail OU son identifiant.
-Utilise les fonctions navites de WordPress.
+Utilise les fonctions natives de WordPress.
 Plugin léger, aucune option, il suffit de l'activer et ça marche.
 
 **Merci d'utiliser le forum de support si vous rencontrez des bugs avant de noter le plugin. Soyez patients, c'est gratuit ;)**
