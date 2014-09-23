@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P39NJ
 Tags: login, email, user, wp-login
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Allows user logs-in with its email OR its username
 
@@ -83,6 +83,9 @@ Find my plugins at <a href="http://profiles.wordpress.org/creativejuiz/">http://
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Better label in registration page
 
 = 1.0.0 =
 * The first release

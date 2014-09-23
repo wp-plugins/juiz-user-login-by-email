@@ -3,7 +3,7 @@
 	Plugin Name: Juiz User Login by email
 	Plugin URI: http://www.creativejuiz.fr/blog/wordpress/wordpress-autoriser-acces-admin-grace-adresse-e-mail
 	Description: Allows user to log-in with its email address OR its username
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: CreativeJuiz
 	Author URI: http://creativejuiz.com
 	License: GPLv2 or later
@@ -69,7 +69,7 @@ if ( !function_exists('juiz_add_email_to_login')) {
 	 */
 	function juiz_add_email_to_login( $translated_text, $text, $domain ) {
 
-		if ( 'wp-login.php' != basename( $_SERVER['SCRIPT_NAME'] ) ) {
+		if ( 'wp-login.php' != basename( $_SERVER['SCRIPT_NAME'] ) || isset($_GET['action']) ) {
 			return $translated_text;
 		}
 
